@@ -125,7 +125,8 @@ a:hover {
 }
 
 .product-image {
-    width: 365px;
+    width: 33%;
+    min-width: 250px;
     padding: 15px;
 }
 .product-image img {
